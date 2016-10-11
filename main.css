@@ -1,0 +1,22 @@
+body {
+  font-family: avenir, sans-serif;
+  font-size: 14px;
+  background-color: #fff;
+  margin: 1em;
+}
+
+h2 {
+  color: steelblue;
+}
+
+div {
+  padding: 1em;
+  border: 1px solid lightgray;
+  background-color: #ddd;
+}
+
+li:hover {
+  color: blue;
+  font-size: 16px;
+  margin: 1px;
+}
